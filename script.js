@@ -20,25 +20,18 @@ const bgMusic = document.getElementById("bgMusic");
 
 // ================= Friendship Letter =================
 
-const message = `Hai Gopika ❤️✨
+const message = `Hai Snehal ❤️✨
 
-En life la kidaicha romba special ana oru gift nee 🤍🫂
-
-15 years ah en kooda irundhu, friend ah mattum illaama en family la oru person madhiri en life la oru mukkiyamaana place eduthuruka ❤️.
-
-Nan happy ah erunthalum sari, sad ah erunthalum sari... nee dhaan first share panura person en life la. 😊🥺🤝
-
-Nambaloda friendship ah "I can't explain in a single word." ❤️✨
-
-Namma friendship la sandaigal irundhaalum 😅
-Misunderstandings vandhaalum 🥲
-Namma bond eppavum strong ah dhaan irukkum. 🤞❤️
-
-En last breath varaikum 🫂❤️
-Namma friendship idhe same bond,
-same care,
-same understanding oda continue aaganum nu aasai paduren. 🥹♾️
-
+Happy Friendship Day! 💖 You are my absolute favorite person and my partner in every crazy adventure.
+👯‍♀️✨I am so lucky to have you in my life.
+From sharing our deepest secrets 🤫 to laughing until our stomachs hurt over nothing at all 😂, every single moment with you is pure gold.
+You get my weirdness 🤪, support my wild ideas 🚀, and always know how to turn a boring day into a fun party 🎉.
+Thank you for being my rock, my cheer squad 📣, and the keeper of all my embarrassing stories 🙈. 
+I promise to always share my snacks 🍕, listen to your rants 🗣️, and stand by your side no matter what comes our way.
+Here is to more late-night chats 💬, epic road trips 🚗, and making memories that will last a lifetime.🧿❤️🫂
+You shine so bright, never change! 🌟 
+Love you tons! 💕 🥹♾️
+Take care ˚˖𓍢ִ໋🌷͙֒✧🩷˚.🎀༘⋆
 Happy Friendship Day d Gopika 🤍🌸❤️`;
 
 let index = 0;
