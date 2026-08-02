@@ -20,7 +20,7 @@ const bgMusic = document.getElementById("bgMusic");
 
 // ================= Friendship Letter =================
 
-const message = `Hai Snehal ❤️✨ 
+const message = `Hai Sian ❤️✨ 
 
 Happy Friendship Day! 💖 You are my absolute favorite person and my partner in every crazy adventure.
 👯‍♀️✨I am so lucky to have you in my life.
